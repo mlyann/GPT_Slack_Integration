@@ -1,4 +1,4 @@
-# Bot Integration Guide: Coze Platform with Slack
+# Bot Integration Guide: ChatGPT with Slack
 
 ## Step 1: Create a Slack App
 
